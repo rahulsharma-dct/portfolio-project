@@ -45,6 +45,7 @@
     "cmdk": "^1.0.0",
     "date-fns": "^3.6.0",
     "embla-carousel-react": "^8.3.0",
+    "gsap": "file:latestframer-motion@latestthree@0.133.0@react-three/fiber@^8.14.5@react-three/drei@^9.88.4",
     "input-otp": "^1.2.4",
     "lucide-react": "^0.462.0",
     "next-themes": "^0.3.0",
